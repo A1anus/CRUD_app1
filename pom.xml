@@ -66,6 +66,11 @@
       <version>6.0.0</version>
       <scope>provided</scope>
     </dependency>
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-jdbc</artifactId>
+      <version>6.0.8</version>
+    </dependency>
   </dependencies>
   <build>
     <finalName>CRUD_app1</finalName>
